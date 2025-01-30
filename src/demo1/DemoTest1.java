@@ -9,4 +9,5 @@ public class DemoTest1 {
 		char grade = 'A';
 	}
 	//test to pull data 
-}
+	// this is data input from GitHub
+	}
